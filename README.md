@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, :earth_africa:!
 
-<!--
-**innaDE/innaDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Inna and I am a full stack developer, currently living in Germany. 
 
-Here are some ideas to get you started:
+At the moment working on [Minions of Disruption](https://github.com/Minions-of-Disruption/Minions-of-Disruption-public). It's a web version of a board game about climate change made by [Day of Adaptation](https://dayad.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :wrench: Tech stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![Node](https://img.shields.io/badge/-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![Sass](https://img.shields.io/badge/-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+
+## :email: Let's connect:
+
+[LinkedIn](https://www.linkedin.com/in/inna-druzina/)
