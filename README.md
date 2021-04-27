@@ -2,8 +2,6 @@
 
 I'm Inna and I am a full stack developer, currently living in Germany. 
 
-At the moment working on [Minions of Disruption](https://github.com/Minions-of-Disruption/Minions-of-Disruption-public). It's a web version of a board game about climate change made by [Day of Adaptation](https://dayad.org/).
-
 ## :wrench: Tech stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
